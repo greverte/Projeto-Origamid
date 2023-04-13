@@ -1,4 +1,5 @@
 import initAnimaNumeros from './anima-numeros.js';
+
 export default function initFetchAnimais() {
   async function FetchAnimais(url) {
     try {
